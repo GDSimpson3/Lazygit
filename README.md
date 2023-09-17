@@ -1,4 +1,4 @@
-# Lazygit//
+# Lazygit// (lgit)
 ## Are you eligible?
     if((UserFeeling === 'Lazy') && (UserKnows === 'Terminal 🥴') && (UserUsesGit === true)){
     console.log('You should use this!')
