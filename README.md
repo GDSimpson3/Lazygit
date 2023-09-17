@@ -9,14 +9,14 @@
 It might help to download the file someplace other than your "downloads" folder so that when you have run out of storage and you do a **ctrl + a ==> delete**, it won't be a wonder when it suddenly disspears
 
 ### 1) Save it in a folder,
-Make sure you copy the full path, eg:
+Make sure you copy the full path, i saved it a folder called "AAA-GLOBAL-LIBS" eg:
 
-    users/username/specialprograms/lazygit.sh
+    /Users/username/AAA-GLOBAL-LIBS/lazygit/lazygit.sh"
 
 ### 2) Make it accesible throughout your shell,
 Add an alias in your shell profile .zprofile/.zshrc/.bashrc
 
-    alias lgit="sh /Users/gavinsimpson/AAA-GLOBAL-LIBS/lazygit/lazygit.sh"
+    alias lgit="sh /Users/username/AAA-GLOBAL-LIBS/lazygit/lazygit.sh"
 
 ### 2) Enjoy.
 I know that you prob can make your own, but here is my way of making it
