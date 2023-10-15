@@ -12,6 +12,8 @@ This has been checked thoroughly and it looks fine (from my eyes) and as i do no
 ## How to install it?
 It might help to download the file someplace other than your "downloads" folder so that when you have run out of storage and you do a **ctrl + a ==> delete**, it won't be a wonder when it suddenly disspears
 
+It was converted using : https://daniel-sc.github.io/bash-shell-to-bat-converter/
+
 ### 1) Save it in a folder,
 Make sure you copy the full path, i saved it a folder called "AAA-GLOBAL-LIBS" eg:
 
