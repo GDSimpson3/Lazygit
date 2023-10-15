@@ -9,10 +9,11 @@
 This has been tested and used on MacOS and will 100% work on Linux
 ### Windows
 This has been checked thoroughly and it looks fine (from my eyes) and as i do not have a windows machine (i do but too "busy" to check, its a windows 8 *cries*) if it doesn't work then make an issue and ill personally see to it that it gets fixed.
-## How to install it?
-It might help to download the file someplace other than your "downloads" folder so that when you have run out of storage and you do a **ctrl + a ==> delete**, it won't be a wonder when it suddenly disspears
 
 It was converted using : https://daniel-sc.github.io/bash-shell-to-bat-converter/
+
+## How to install it?
+It might help to download the file someplace other than your "downloads" folder so that when you have run out of storage and you do a **ctrl + a ==> delete**, it won't be a wonder when it suddenly disspears
 
 ### 1) Save it in a folder,
 Make sure you copy the full path, i saved it a folder called "AAA-GLOBAL-LIBS" eg:
